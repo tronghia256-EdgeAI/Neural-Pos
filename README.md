@@ -23,6 +23,9 @@ The system is designed for embedded automation, small vending systems,
 and educational robotics/AI projects.
 
 ------------------------------------------------------------------------
+## 🎥 Demo
+
+[![Watch the video](https://img.youtube.com/vi/watch?v=eFbIRL3UvZc/maxresdefault.jpg)](https://www.youtube.com/shorts/pvQ0PyGk9uU)
 
 ## 🧠 System Logic
 
